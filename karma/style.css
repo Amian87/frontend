@@ -63,6 +63,9 @@ nav a {
 	float: right;
 	margin-right:50px;
 	text-decoration: none;
+	font-family: 'Roboto 100', sans-serif;
+	font-weight: 300;
+	color: grey;
 
 }
 
