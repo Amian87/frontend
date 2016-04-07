@@ -54,17 +54,15 @@ table {
 
 /*navigation*/
 
-.logo {
-
-	height: 30px;
-	width: 30px;
-	display:inline-block;
-}
 
 ul{
 
 	margin: 0;
 	padding: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: white;	
 }
 
 li a {
@@ -74,8 +72,18 @@ li a {
 	font-family: 'Roboto 100', sans-serif;
 	font-weight: 300;
 	color: grey;
-	padding: 14px 16px;
+	padding: 15px ;
 
+}
+
+
+.logo {
+
+	height: 30px;
+	width: 30px;
+	margin-left: 380px;
+	margin-top: 20px
+	
 }
 
 
@@ -87,21 +95,48 @@ li a {
 
 
 a:hover { 
-   		color: black;
-}
-
-nav {
-
-	/*position: fixed;
-	top:0px; 
-	margin:auto; 
-	z-index:100000; 
-	width:100%;*/
-
+   	
+   	color: black;
+   	font-weight: 400;
 }
 
 
 .sitenav {
 
+ 	margin-right: 200px;
 
 }
+
+/*.maincta {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+   Preserve aspet ratio 
+  min-width: 100%;
+  min-height: 100%;
+}*/
+
+section img {
+
+
+	height: 700px;
+	width: 1280px;
+	
+
+}
+
+.intro {
+
+	color:white;
+	position: absolute; 
+	font-family: 'Roboto 100', sans-serif;
+   	font-weight: 10;
+   	top: 300px;
+   	margin-left: 500px; 
+   	font-size: 40px;
+   
+
+}
+
+
