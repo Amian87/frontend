@@ -119,11 +119,8 @@ a:hover {
 
 section img {
 
-
 	height: 700px;
 	width: 1280px;
-	
-
 }
 
 .intro {
@@ -135,7 +132,41 @@ section img {
    	top: 300px;
    	margin-left: 500px; 
    	font-size: 40px;
-   
+}
+
+.tagline {
+
+	font-family: 'Roboto 100', sans-serif;
+	position: absolute;
+	color: white;
+	top: 360px;
+	margin-left: 460px;
+	font-weight: 15px;
+	font-size: 24px;
+}
+
+
+.learnmore {
+
+	/*font-family: 'Roboto 100', sans-serif;	
+	display: inline;
+	height: 50px;
+	width: 100px;
+	background-color: #f15a29;
+	margin-bottom: 100px;
+	border-radius: 10px;*/
+
+  display: inline-block;
+  margin: 100 10px 0 0;
+  padding: 11px 40px;
+  font-size: 16px;
+  font-family: 'Roboto 100', sans-serif;	
+  background-color: #f15a29;
+  color: white;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 5px;
 
 }
 
