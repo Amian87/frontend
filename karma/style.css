@@ -52,20 +52,48 @@ table {
 /* Nomalize ends */
 
 
+/*navigation*/
+
 .logo {
 
 	height: 30px;
 	width: 30px;
 }
 
+
 nav a {
 
 	float: right;
-	margin-right:50px;
 	text-decoration: none;
 	font-family: 'Roboto 100', sans-serif;
 	font-weight: 300;
 	color: grey;
+	margin-top: 30px;
 
 }
 
+.sitenav:nth-child(6) {
+
+	color: #373737;
+}
+
+
+a:hover { 
+   		color: black;
+}
+
+nav {
+
+	/*position: fixed;
+	top:0px; 
+	margin:auto; 
+	z-index:100000; 
+	width:100%;*/
+
+}
+
+
+.sitenav {
+
+	
+}
