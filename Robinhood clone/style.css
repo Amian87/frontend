@@ -258,6 +258,8 @@ table {
 
 .security  .securitycontainer {
     text-align: center;
+    width: 800px;
+    margin-left: 250px;
 }
 
 .securitycontainer > img {
@@ -276,6 +278,77 @@ table {
     line-height: 50px;
     margin-top: 20px;
 }
+
+.securitycontainer a {
+
+    color: #21ce99 ;
+
+}
+
+
+/*cases section*/
+
+.cases {
+    position: relative;
+    height: 1200px;
+    width:1285px;
+    bottom: 580px;
+}
+
+.cases .case-container {
+    text-align: center;
+    width: 940px;
+    position: relative;
+    margin-left: 190px;
+
+}
+
+.cases .case-container > h1 {
+    font-size: 35px;
+    color: black;
+    line-height: 50px;
+    
+    
+}
+
+
+
+.cases .case-examples  > h3 {
+    padding-top: 40px;
+    color: #040d14;
+    font-size: 30px;
+    padding-bottom: 20px;
+    font-weight: 1px;
+}
+
+.cases .case-examples > img {
+    padding-top: 100px;
+}
+
+.cases .case-examples > h4 {
+    line-height: 40px;
+    font-size: 30px;
+    color: #898e91;
+}
+
+
+
+/*investor section*/
+
+.investors .investorcontainer > img {
+    position: relative;
+    bottom: 150px;
+    background-image: url();
+}
+
+
+.investors  > h3 {
+    color: white;
+    font-size: 30px;
+
+    
+}
+
 
 /*buttons*/
  button {
