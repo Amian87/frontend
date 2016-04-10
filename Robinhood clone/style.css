@@ -226,13 +226,55 @@ table {
     position: relative;
     margin-top: 250px;
     margin-right: 300px;
+    display: inline;
 }
 
-.lmtext {
+.tradevideo {
+    display: inline;
+    position: relative;
+    margin-right: 300px;
+    bottom: 538px;
+}
+
+/*.lmtext {
     padding: 0
     bottom: 160px;
     position: relative;
 
+}*/
+
+
+
+/*security section*/
+
+.security {
+    position: relative;
+    background-color: black;
+    height: 1200px;
+    width:1285px;
+    bottom: 720px;
+    color: white;
+}
+
+.security  .securitycontainer {
+    text-align: center;
+}
+
+.securitycontainer > img {
+    margin-top: 150px;
+}
+
+
+.securitycontainer > h1 {
+    font-size: 35px;
+    margin-top: 40px;
+    line-height: 60px;
+}
+
+.securitycontainer > h3 {
+    font-size: 30px;
+    line-height: 50px;
+    margin-top: 20px;
 }
 
 /*buttons*/
