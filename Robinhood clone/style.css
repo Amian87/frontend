@@ -52,7 +52,7 @@ table {
 /* Nomalize ends */
 
  body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto 100', sans-serif;
 }
 
 .content {
@@ -112,6 +112,15 @@ table {
 }
 
 
+
+.signuptext {
+    margin-top: 80px;
+    line-height: 40px;
+    margin-left: 40px;
+
+}
+
+
 .introduction {
     margin-top: 12rem;
     display: inline-block;
@@ -129,10 +138,32 @@ table {
 
 }
 
+.signup {
+    margin-top: 180px;
+    margin-left: 40px;
+}
+
+.videobutton {
+    top: 100px; 
+    position: relative;
+}
+
+.watchvideo {
+    margin-left: 40px;
+}
+
+.watchvideo p {
+    margin-left: 78px;
+    margin-top: 65px;
+    font-size: 15px;
+    color: #21ce99;
+}
+
+
 .phone {
     position: relative;
     left: 800px;    
-    bottom: 260px;
+    bottom: 680px;
     display: inline;
 
 }
@@ -145,6 +176,66 @@ table {
 
 }
 
+.disclosure {
+    cursor: pointer;
+    position: relative;
+    right: 476px;
+    top: 30px;
+    color:#21ce99;
+}
+
+.container {
+    width: 300px;
+    margin-left: 485px;
+    margin-bottom: 50px;  
+    margin-top: 40px;
+    text-align: center;
+    position: relative;
+    right: 476px;
+    display: none;
+}
+
+
+/*learn more section*/
+
+.learn-more {
+    position: relative;
+    background-color: #21ce99;
+    height: 1200px;
+    width:1285px;
+    bottom: 720px;
+    color: white;
+}
+
+.learn-more .content {
+    text-align: center;
+}
+
+
+
+.learn-more .copycontent > h1 {
+    position: relative;
+    margin-top: 200px;
+    font-size: 35px;
+    top: 200px;
+    line-height: 60px;
+}
+
+
+.lmphone {
+    position: relative;
+    margin-top: 250px;
+    margin-right: 300px;
+}
+
+.lmtext {
+    padding: 0
+    bottom: 160px;
+    position: relative;
+
+}
+
+/*buttons*/
  button {
     width: 120px;
     background-color: #21ce99;
