@@ -248,6 +248,7 @@ table {
     line-height: 37px;
 }
 
+
 .learn-more .money {
     position: relative;
     z-index: 9999;
@@ -262,6 +263,12 @@ table {
     bottom: 1035px;
     font-weight: 200;
 
+}
+
+.money:hover {
+    background-color: white;
+    color: #21ce99;
+    cursor: pointer;
 }
 
 
@@ -279,6 +286,12 @@ table {
     bottom: 1015px;
     font-weight: 200;
 
+}
+
+.brokerage:hover {
+    background-color: white;
+    color: #21ce99;
+    cursor: pointer;
 }
 
 /*security section*/
@@ -383,13 +396,53 @@ table {
 }
 
 
-.investors  > h3 {
+.investors .investorcontainer  > h3 {
     color: white;
-    font-size: 30px;
-
-    
+    font-size: 40px;
+    line-height: 55px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 740px;
+    width: 800px;
+    margin-left: 265px;
+    text-align: center;  
 }
 
+
+.investors .lm {
+    position: relative;
+    z-index: 9999;
+    width: 270px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 12px;
+    color: white;
+    font-size: 16px;
+    margin-left: 550px;
+    bottom: 680px;
+    font-weight: 200;
+
+}
+
+.lm:hover {
+    background-color: white;
+    color: #21ce99;
+    cursor: pointer;
+}
+
+/*.investors .investor-logos > li {
+    width: 2.5rem;
+    height: 2.5rem;
+    display: inline-block;
+    margin: 1.25rem 5px;
+    padding: 0.625rem 0;
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+
+}
+*/
 
 /*buttons*/
  button {
