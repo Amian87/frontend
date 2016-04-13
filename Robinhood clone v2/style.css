@@ -59,7 +59,7 @@ table {
     max-width: 100% ;
     background-color: brown;
     margin: 0 auto;
-    margin-top: 120px;
+    margin-top: 180px;
 }
 
 
@@ -72,7 +72,6 @@ table {
     width: 1276px;  
     display: block;
     top: 0;
-
 }
 
 .topNav .logo {
@@ -80,12 +79,15 @@ table {
     float: left;
     width: 40px;
     height: 35px;
-    margin-top: 40px;
     margin-left: 50px;
+    margin-top: 40px;
 }
 
 .topNav ul {
     float: right;
+    position: relative;
+    margin-right: 60px;
+
     
 }
 
@@ -104,7 +106,61 @@ table {
     cursor: pointer;
 }
 
-.topNav button {
+
+
+
+/*Introduction section*/
+
+.intro {
+    width: 700px;
+    margin-left: 45px;
+}
+
+.content h1:nth-child(1) {
+    font-size: 45px;   
+    font-weight: 400;
+
+}
+
+.content h1:nth-child(2){
+    font-size: 45px;    
+    font-weight: 200;
+    line-height: 50px;  
+}
+
+.content h3:nth-child(3){
+    line-height: 30px;
+    font-weight: 200;
+    font-size: 22px;
+    margin-top: 20px;
+    padding-bottom: 33px;
+
+}
+
+.content h3:nth-child(3){
+    line-height: 30px;
+    font-weight: 200;
+    font-size: 22px;
+    margin-top: 60px;
+    padding-bottom: 33px;
+
+}
+
+.content img {
+    position: relative;
+    right: 80px;
+    top: 100px;
+    
+}
+
+.intro aside {
+    float: right;
+}
+
+
+/*buttons*/
+
+.signUp {
     border-radius: 5px;
     background-color: #21ce99;
     padding: 12px ;
@@ -115,12 +171,7 @@ table {
     border: 1px ;
 }
 
-.topNav button:hover {
+.signUp:hover {
     background-color: #199972;
     cursor: pointer;
 }
-
-
-/*Introduction section*/
-
-
