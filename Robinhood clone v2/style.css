@@ -50,66 +50,110 @@ table {
     border-spacing: 0;
 }
 
+a {
+
+    text-decoration: none;
+
+}
+
 /* Nomalize ends */
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
 
 
 
 .mainWrapper {
     font-family: 'Roboto';
-    max-width: 100% ;
-    background-color: brown;
-    margin: 0 auto;
-    margin-top: 180px;
+    width: 1276; ;
 }
 
-
-/*Navigation*/
-
-.topNav {
+.navContent {
+    width: 100%;
+    height: 101px;
     background-color: white;
-    opacity: .8;
-    position: absolute;
-    width: 1276px;  
-    display: block;
-    top: 0;
+    position: fixed;
+    opacity: .7;
 }
 
-.topNav .logo {
-    display: block;
+.logo {
     float: left;
-    width: 40px;
-    height: 35px;
-    margin-left: 50px;
-    margin-top: 40px;
-}
-
-.topNav ul {
-    float: right;
-    position: relative;
-    margin-right: 60px;
-
+    display: block;
+    margin-top: 25px;
+    margin-left: 70px;
     
 }
 
 
-.topNav li {
-        display: inline-block;
-        position: relative;
-        margin-top: 38px;
-        padding: 14px;
-        color: #21ce99;
-        
-    }
+.topNav ul a {
+    float: right;
+    color: #21ce99;
+    font-size: 15px;
+    position: relative;
+    top: 20px;
+    right: 100px;
+    padding: 20px;
+    
 
-.topNav li:hover {
-    color: black;
+}
+
+.topNav li a:hover {
+    color:black;
+
+}
+
+.topNav .signUp {
+    float: right;
+    position: relative;
+    top: 24px;
+    right: 70px;
+}
+
+/*buttons*/
+
+.signUp {
+    border-radius: 5px;
+    background-color: #21ce99;
+    padding: 12px ;
+    box-shadow: none;
+    font-weight: 300;
+    color: white;
+    font-size: 15px;
+    border: 1px ;
+}
+
+.signUp:hover {
+    background-color: #199972;
     cursor: pointer;
+}
+
+.scroll {
+    position: relative;
+    top: 3000px;
 }
 
 
 
 
-/*Introduction section*/
+
+
+
+
+
+
+
+/*Introduction section
 
 .intro {
     width: 700px;
@@ -156,22 +200,5 @@ table {
 .intro aside {
     float: right;
 }
+*/
 
-
-/*buttons*/
-
-.signUp {
-    border-radius: 5px;
-    background-color: #21ce99;
-    padding: 12px ;
-    box-shadow: none;
-    font-weight: 300;
-    color: white;
-    font-size: 14px;
-    border: 1px ;
-}
-
-.signUp:hover {
-    background-color: #199972;
-    cursor: pointer;
-}
