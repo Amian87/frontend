@@ -79,24 +79,23 @@ a {
 }
 
 .navContent {
-    width: 1276px;
+    width: 100%;
     background-color: white;
     position: fixed;
-    opacity: .7;
+    opacity: .8;
     display: block;
     top: 0;
+    padding: 25px ;
+    z-index: 1;
 
 }
 
-.navWrapper {
+.pageWrapper {
     margin: 0 auto;
     width: 1000px;
-    margin: 0 auto;
-    padding: 20px 0;
-
-
-
+    
 }
+
 
 
 .logo {
@@ -105,27 +104,33 @@ a {
     
 }
 
-.topNav ul {
+/*.topNav ul {
     float: right;
-}
+    display: inline-block;
+}*/
 
 
-.topNav li {
+.topNav ul li a {
     float: right;
     color: #21ce99;
     font-size: 15px;
-    padding: 20px;
+    display: inline-block;
+    margin: 20px;
 
 }
 
-.topNav li:hover {
+.topNav a:hover {
     color:black;
 
 }
 
 .topNav button {
+    float: right;
     position: relative;
     bottom: 15px;
+    padding: 15px;
+    margin-top: 14px;
+    margin-left: 26px;
 
 }
 
@@ -133,7 +138,7 @@ a {
 
 .signUp {
     border-radius: 5px;
-    background-color: #21ce99;
+    background-color: #21ce99; 
     padding: 12px ;
     box-shadow: none;
     font-weight: 500;
@@ -148,73 +153,80 @@ a {
 }
 
 
-
-
-
-
-
-
-
-
-
-/*Introduction section*/
+/*introduction section*/
 
 .intro {
-    width: 700px;
-    margin-left: 45px;
+    width: 100%;
     margin-top: 200px;
-    background: brown;
-
-
 }
 
-.content h1:nth-child(1) {
+.introText {
+    height: 682px;
+    width: 648px;
+    
+}
+
+
+.introText h1:nth-child(1) {
     font-size: 45px;   
     font-weight: 400;
 
 }
 
-.content h1:nth-child(2){
+.introText h1:nth-child(2){
     font-size: 45px;    
     font-weight: 200;
     line-height: 50px;  
 }
 
-.content h3:nth-child(3){
-    line-height: 30px;
-    font-weight: 200;
-    font-size: 22px;
-    margin-top: 20px;
-    padding-bottom: 33px;
-
-}
-
-.content h3:nth-child(3){
+.introText h3:nth-child(3){
     line-height: 30px;
     font-weight: 200;
     font-size: 22px;
     margin-top: 60px;
-    padding-bottom: 33px;
+    margin-bottom: 60px;
 
 }
 
-.content img {
+.introText button {
+    display: block;
+    margin-top: 67px;
+    margin-bottom: 60px;
+}
+
+.introText p {
+    display: inline-block;
     position: relative;
-    right: 80px;
-    top: 100px;
-    
+    bottom: 15px;
+    left: 20px;
+    color: #21ce99;
+    cursor: pointer;
 }
+
 
 .intro aside {
-    float: right;
     position: relative;
-    display: block;
-
+    float: right;
 }
 
-.tradevideo {
+.introAnimation img {
+    position: relative;
+    bottom: 700px;
+}
+
+.introAnimation video {
     position: absolute;
-    
+    left: 17px;
+    bottom: 760px;
 
 }
+
+/*Green feature block*/
+
+.featureBlock {
+    width: 1276;
+    height: 800px;
+    background-color: #21ce99
+}
+
 
