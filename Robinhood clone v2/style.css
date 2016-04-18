@@ -92,10 +92,9 @@ a {
 
 .pageWrapper {
     margin: 0 auto;
-    width: 1000px;
+    width: 1125px;
     
 }
-
 
 
 .logo {
@@ -110,26 +109,18 @@ a {
 
 
 .topNav ul li {
-    display: inline-block;
     margin: 0px 20px;
+    float: left;
 }
 
-.topNav ul li:last-child{
-    margin-right: 0px;
-}
 
-/*.topNav ul li {
-    float:left;
-}
-*/
+
+
 .topNav ul li a {
     color: #21ce99;
     font-size: 15px;
     display: block;
     padding: 12px;
-    /*margin: 0px 20px;*/
-    
-
 
 }
 
@@ -173,19 +164,19 @@ a {
 }
 
 
-.introText h1:nth-child(1) {
+.introText h1{
     font-size: 45px;   
     font-weight: 400;
 
 }
 
-.introText h1:nth-child(2){
+.introText h2{
     font-size: 45px;    
     font-weight: 200;
     line-height: 50px;  
 }
 
-.introText h3:nth-child(3){
+.introText h3{
     line-height: 30px;
     font-weight: 200;
     font-size: 22px;
@@ -205,8 +196,8 @@ a {
     color: #21ce99;
     cursor: pointer;
     background: url("img/play_button@2x.png") no-repeat left center;
-    background-size: 30px auto;
-    padding: 10px 0 10px 50px;
+    background-size: 60px auto;
+    padding: 20px 0 20px 90px;
 }
 
 
@@ -214,6 +205,7 @@ a {
     height: 635px;
     width: 310px;
     position: relative;
+    bottom: 50px;
     float: right;
     background-image: url("img/phone_frame_dark@2x.png");
     background-size: 100%;
@@ -223,17 +215,29 @@ a {
 
 .introAnimation video {
     position: absolute;
-    left: 17px;
-    top: 60px;
+    left: 25px;
+    top: 70px;
 
 }
 
 /*Green feature block*/
 
 .featureBlock {
-    width: 1276;
+    background-color: #21ce99;
+    background-size: auto;
+    width: 1276px;
     height: 800px;
-    background-color: #21ce99
 }
 
+.featureWrapper {
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: grey;
+    position: relative;
+    top: 100px;
+}
 
+.featureContent h1 {
+    text-align: center;
+}
