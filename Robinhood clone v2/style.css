@@ -104,18 +104,32 @@ a {
     
 }
 
-/*.topNav ul {
+.topNav ul {
     float: right;
+}
+
+
+.topNav ul li {
     display: inline-block;
-}*/
+    margin: 0px 20px;
+}
 
+.topNav ul li:last-child{
+    margin-right: 0px;
+}
 
+/*.topNav ul li {
+    float:left;
+}
+*/
 .topNav ul li a {
-    float: right;
     color: #21ce99;
     font-size: 15px;
-    display: inline-block;
-    margin: 20px;
+    display: block;
+    padding: 12px;
+    /*margin: 0px 20px;*/
+    
+
 
 }
 
@@ -124,15 +138,6 @@ a {
 
 }
 
-.topNav button {
-    float: right;
-    position: relative;
-    bottom: 15px;
-    padding: 15px;
-    margin-top: 14px;
-    margin-left: 26px;
-
-}
 
 /*buttons*/
 
@@ -163,6 +168,7 @@ a {
 .introText {
     height: 682px;
     width: 648px;
+    float: left;
     
 }
 
@@ -194,30 +200,31 @@ a {
     margin-bottom: 60px;
 }
 
-.introText p {
-    display: inline-block;
-    position: relative;
-    bottom: 15px;
-    left: 20px;
+.watch {
+    display: block;
     color: #21ce99;
     cursor: pointer;
+    background: url("img/play_button@2x.png") no-repeat left center;
+    background-size: 30px auto;
+    padding: 10px 0 10px 50px;
 }
 
 
 .intro aside {
+    height: 635px;
+    width: 310px;
     position: relative;
     float: right;
-}
-
-.introAnimation img {
-    position: relative;
-    bottom: 700px;
+    background-image: url("img/phone_frame_dark@2x.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
 }
 
 .introAnimation video {
     position: absolute;
     left: 17px;
-    bottom: 760px;
+    top: 60px;
 
 }
 
