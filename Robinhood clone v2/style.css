@@ -318,7 +318,29 @@ a {
    
 }*/
 
+.copy {
+    width: 650px;
+    /*background: blue;*/
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 200;
+    text-align: center;
+    line-height: 1.5;
+}
+  
 
+.copy h1 {
+    font-weight: 300;   
+    padding: 20px 0px;
+        
+}
 
+.copy a {
+    color: #21ce99 ;
+    text-decoration: none;
+    
 
+}
 
