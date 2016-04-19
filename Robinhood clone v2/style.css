@@ -226,18 +226,99 @@ a {
     background-color: #21ce99;
     background-size: auto;
     width: 1276px;
-    height: 800px;
+    height: 1042px;
 }
 
 .featureWrapper {
     width: 1000px;
-    height: 500px;
+    height: 840px;
     margin: 0 auto;
-    background-color: grey;
-    position: relative;
-    top: 100px;
+    padding-top: 150px;
+
+    
 }
 
 .featureContent h1 {
     text-align: center;
+    font-size: 45px;   
+    font-weight: 200;
+    color: white;
+    line-height: 1.5;
 }
+
+.featureText {
+    width: 760px;
+    height: 653px;
+    margin: 50px auto;
+    background-image: url("img/phone_frame_light@2x.png");
+    background-repeat: no-repeat;
+    background-size: 310px 635px;
+    position: relative;
+}
+
+.featureContent video {
+    position: absolute;
+    top: 78px;
+    left: 5px;
+}
+
+.brokerInfo h3 {
+    width: 300px;
+    font-size: 24px;
+    line-height: 1.5;
+    font-weight: 100;   
+    float: right;
+    margin-right: 20px;
+    display: inline-block;
+
+}
+
+
+
+.featureButtons {
+    float: right;
+    position: relative;
+    width: 200px;
+    top: 450px;
+    left: 192px;
+}
+
+.featureButtons button {
+    width: 270px;
+    background-color: #21ce99;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 12px;
+    color: white;
+    font-size: 16px;
+    font-weight: 200;
+    margin: 5px;
+
+}
+
+
+.featureButtons button:hover {
+    background-color: white;
+    color: #21ce99;
+    cursor: pointer;
+}
+
+
+/*Security Feature*/
+
+.securityFeature {
+    background-color: black;
+    width: 1276px;
+    height: 1042px;
+    
+}
+
+/*.featureWrapper {
+   background-color: grey;
+   
+}*/
+
+
+
+
+
