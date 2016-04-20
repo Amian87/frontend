@@ -224,22 +224,19 @@ a {
 
 .featureBlock {
     background-color: #21ce99;
-    background-size: auto;
-    width: 1276px;
-    height: 1042px;
+    padding: 40px 0px;
 }
 
 .featureWrapper {
-    width: 1000px;
-    height: 800px;
+    width: 750px;
     margin: 0 auto;
-    padding-top: 110px;
     color: white;
 
     
 }
 
-.featureContent h1 {
+
+.featureWrapper h1 {
     text-align: center;
     font-size: 45px;   
     font-weight: 200;
@@ -248,43 +245,43 @@ a {
 }
 
 .featureText {
-    width: 760px;
-    height: 653px;
-    margin: 40px auto;
-    background-image: url("img/phone_frame_light@2x.png");
-    background-repeat: no-repeat;
-    background-size: 310px 635px;
-    position: relative;
+    margin: 100px auto 0px;
+
 }
 
-.featureContent video {
+.brokerInfo {
+    float: right;
+    width: 360px;
+}
+
+.featureVideo {
+    background-image: url("img/phone_frame_light@2x.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    width: 310px;
+    height: 635px;
+    float: left;
+
+}
+
+.featureVideo  video {
     position: absolute;
     top: 78px;
     left: 5px;
 }
 
 .brokerInfo h3 {
-    width: 300px;
     font-size: 24px;
     line-height: 1.5;
-    font-weight: 100;   
-    float: right;
-    margin-right: 20px;
-    display: inline-block;
+    font-weight: 100;  
+    padding-bottom: 30px; 
+
 
 }
 
-
-
-.featureButtons {
-    float: right;
-    position: relative;
-    width: 200px;
-    top: 450px;
-    left: 192px;
-}
-
-.featureButtons button {
+.brokerInfo button {
+    margin-top: 30px;
     width: 270px;
     background-color: #21ce99;
     border: 1px solid white;
@@ -341,10 +338,10 @@ a {
 
 /*Use cases section*/
 
-.featureContent {
+/*.featureContent {
     background-color: grey;
     
-}
+}*/
 
 .excecutionCase {
     width: 300px;
