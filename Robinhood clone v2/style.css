@@ -231,9 +231,10 @@ a {
 
 .featureWrapper {
     width: 1000px;
-    height: 840px;
+    height: 800px;
     margin: 0 auto;
-    padding-top: 150px;
+    padding-top: 110px;
+    color: white;
 
     
 }
@@ -242,14 +243,14 @@ a {
     text-align: center;
     font-size: 45px;   
     font-weight: 200;
-    color: white;
+    font-family: 'Roboto';
     line-height: 1.5;
 }
 
 .featureText {
     width: 760px;
     height: 653px;
-    margin: 50px auto;
+    margin: 40px auto;
     background-image: url("img/phone_frame_light@2x.png");
     background-repeat: no-repeat;
     background-size: 310px 635px;
@@ -309,18 +310,13 @@ a {
 .securityFeature {
     background-color: black;
     width: 1276px;
-    height: 1042px;
+    height: 950px;
     
 }
 
-/*.featureWrapper {
-   background-color: grey;
-   
-}*/
 
 .copy {
     width: 650px;
-    /*background: blue;*/
     margin: 0 auto;
     color: white;
     font-size: 20px;
@@ -341,6 +337,25 @@ a {
     color: #21ce99 ;
     text-decoration: none;
     
+}
+
+/*Use cases section*/
+
+.featureContent {
+    background-color: grey;
+    
+}
+
+.excecutionCase {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 17px;
 
 }
 
+.executionCase {
+
+
+}
