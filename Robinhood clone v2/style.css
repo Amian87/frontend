@@ -224,7 +224,7 @@ a {
 
 .featureBlock {
     background-color: #21ce99;
-    padding: 40px 0px;
+    padding: 100px 0px;
 }
 
 .featureWrapper {
@@ -306,21 +306,30 @@ a {
 
 .securityFeature {
     background-color: black;
-    width: 1276px;
-    height: 950px;
-    
+}
+
+.securityPic {
+    background-image: url("img/security@2x.png");
+    background-size: 100%;
+    width: 220px;
+    height: 240px;
+    /*background: grey;*/
+    margin: 0 auto;
+
 }
 
 
 .copy {
+  
     width: 650px;
-    margin: 0 auto;
+    margin: auto;
     color: white;
     font-size: 20px;
     font-family: 'Roboto';
     font-weight: 200;
     text-align: center;
     line-height: 1.5;
+    padding: 100px 0px;
 }
   
 
