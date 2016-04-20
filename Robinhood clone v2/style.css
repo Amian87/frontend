@@ -224,24 +224,25 @@ a {
 
 .featureBlock {
     background-color: #21ce99;
-    padding: 100px 0px;
+    padding: 60px 0px;
 }
 
 .featureWrapper {
     width: 750px;
     margin: 0 auto;
-    color: white;
+    
 
     
 }
 
-
-.featureWrapper h1 {
+.featureText h1 {
     text-align: center;
     font-size: 45px;   
     font-weight: 200;
-    font-family: 'Roboto';
+    /*font-family: 'Roboto';*/
     line-height: 1.5;
+    color: white;
+    padding-bottom: 60px;
 }
 
 .featureText {
@@ -276,6 +277,7 @@ a {
     line-height: 1.5;
     font-weight: 100;  
     padding-bottom: 30px; 
+    color: white;
 
 
 }
@@ -313,7 +315,6 @@ a {
     background-size: 100%;
     width: 220px;
     height: 240px;
-    /*background: grey;*/
     margin: 0 auto;
 
 }
@@ -334,6 +335,7 @@ a {
   
 
 .copy h1 {
+    font-size: 45px;   
     font-weight: 300;   
     padding: 20px 0px;
         
@@ -347,21 +349,113 @@ a {
 
 /*Use cases section*/
 
-/*.featureContent {
-    background-color: grey;
-    
+/*.featureWrapper {
+    background: grey;
 }*/
 
-.excecutionCase {
-    width: 300px;
-    margin: 0 auto;
+.useCaseExamples {
+    margin: 0 auto
+    color:  black;
     text-align: center;
-    line-height: 1.5;
-    font-size: 17px;
-
+    font-family: 'Roboto';
+    line-height: 1.4;
 }
 
-.executionCase {
-
-
+.useCaseExamples h1 {  
+    font-size: 45px;   
+    font-weight: 200;   
+    padding: 130px 0px;
 }
+
+.executionImg {
+    background-image: url("img/fast_execution@2x.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 240px;
+    width: 240px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+.excecutionCase h3 {
+    font-size: 23px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.excecutionCase p {
+    font-size: 23px;
+    font-weight: 200;
+    padding-bottom: 80px;
+}
+
+
+.realTimeImg {
+    background-image: url("img/market_data@2x.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100px;
+    width: 400px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+.realTimeCase h3 {
+    font-size: 23px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.realTimeCase p {
+    font-size: 23px;
+    font-weight: 200;
+    padding-bottom: 80px;
+}
+
+
+
+.notificationImg {
+    background-image: url("img/smart_notifications@2x.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 150px;
+    width: 150px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+.notificationCase h3 {
+    font-size: 23px;
+    font-weight: 300;
+    padding-bottom: 10px;
+}
+
+.notificationCase p {
+    font-size: 23px;
+    font-weight: 200;
+    padding-bottom: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*.featureWrapper {
+    background: grey;
+}*/
+
+
+
+
+
+
+
+
+
