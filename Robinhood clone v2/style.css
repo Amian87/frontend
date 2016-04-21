@@ -511,7 +511,7 @@ footer {
 
 .footerWrapper {
     margin: 0 auto;
-    width: 950px;
+    width: 900px;
     
 
 }
@@ -563,9 +563,9 @@ footer {
 
 .legalLeft {
     font-family: 'Roboto';
-    width: 480px;
+    width: 425px;
     color: #586468;
-    text-align: left;
+    text-align: justify;
     font-size: 12px;
     font-weight: 500;
     line-height: 1.3;
@@ -578,7 +578,7 @@ footer {
     font-family: 'Roboto';
     width: 440px;
     color: #586468;
-    text-align: left;
+    text-align: justify;
     font-size: 12px;
     font-weight: 500;
     line-height: 1.3;
