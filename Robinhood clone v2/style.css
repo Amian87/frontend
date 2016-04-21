@@ -505,7 +505,7 @@ a {
 
 
 footer {
-    height: 1136px;
+    
     background: black;
 }
 
@@ -561,9 +561,31 @@ footer {
     height: 140px;
 }
 
+.legalLeft {
+    font-family: 'Roboto';
+    width: 480px;
+    color: #586468;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.3;
+    padding-top: 40px;
+    float: left;
+    display: block;
+}
 
-
-
+.legalRight {
+    font-family: 'Roboto';
+    width: 440px;
+    color: #586468;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.3;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    float: right;
+}
 
 
 
