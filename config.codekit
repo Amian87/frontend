@@ -137,6 +137,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/Robinhood clone v2\/img\/app_store@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6110,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/app_store@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/app_store@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Robinhood clone v2\/img\/au@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1367,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/au@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/au@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Robinhood clone v2\/img\/cn@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 649,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/cn@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/cn@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Robinhood clone v2\/img\/email@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 945,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/email@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/email@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Robinhood clone v2\/img\/facebook@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1209,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/facebook@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/facebook@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/Robinhood clone v2\/img\/fast_execution@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -144,6 +199,17 @@
 		"initialSize": 16223,
 		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/fast_execution@2x.png",
 		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/fast_execution@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Robinhood clone v2\/img\/google_play@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8795,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/google_play@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/google_play@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -166,6 +232,17 @@
 		"initialSize": 4436,
 		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/Index@2x.png",
 		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/Index@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Robinhood clone v2\/img\/linkedin@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1520,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/linkedin@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/linkedin@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -276,6 +353,28 @@
 		"initialSize": 190416,
 		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/TeamPhoto.jpg",
 		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/TeamPhoto.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Robinhood clone v2\/img\/twitter@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1974,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/twitter@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/twitter@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Robinhood clone v2\/img\/us@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1613,
+		"inputAbbreviatedPath": "\/Robinhood clone v2\/img\/us@2x.png",
+		"outputAbbreviatedPath": "\/Robinhood clone v2\/img\/us@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
