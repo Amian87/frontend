@@ -509,18 +509,57 @@ footer {
     background: black;
 }
 
+.footerWrapper {
+    margin: 0 auto;
+    width: 950px;
+    
+
+}
+
+.phoneApp {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+.phoneApp img {
+    padding: 5px;
+}
 
 
+.regions {
+    float: left;
+    margin-top: 55px;
+
+}
+
+.regions li {
+    float: right;
+    margin: 0px 23px;
+}
+
+.regions li:first-child{
+    color: #5DCECA;
+    font-family: 'Roboto';
+}
+
+.social {
+    float: right;
+    margin-top: 55px;
+}
+
+.social li {
+    float: left;
+    margin: 0px 30px;
+}
 
 
-
-
-
-
-/*.featureWrapper {
-    background: grey;
-}*/
-
+.middle {
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    height: 140px;
+}
 
 
 
