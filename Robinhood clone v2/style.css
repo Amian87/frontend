@@ -3,7 +3,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-
+ 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -224,7 +224,7 @@ a {
 
 .featureBlock {
     background-color: #21ce99;
-    padding: 60px 0px;
+    padding: 150px 0px;
 }
 
 .featureWrapper {
@@ -237,7 +237,7 @@ a {
     
 }
 
-.featureText h1 {
+.featureBlock h1 {
     text-align: center;
     font-size: 45px;   
     font-weight: 200;
@@ -247,10 +247,13 @@ a {
     padding-bottom: 60px;
 }
 
-.featureText {
+
+
+
+/*.featureText {
     margin: 100px auto 0px;
 
-}
+}*/
 
 .brokerInfo {
     float: right;
