@@ -451,23 +451,21 @@ body {
 }
 
 .mainWrapper {
-  width: 1088px;
-  margin: 0 auto;
- font-family: 'Maven Pro', sans-serif;
+  font-family: 'Maven Pro', sans-serif;
 }
 
 
 .pageWrapper {
- /* width: 1088px;*/
-  margin: 0 auto;
- font-family: 'Maven Pro', sans-serif;
+ 
+  font-family: 'Maven Pro', sans-serif;
 }
 
 
 .topNav {
+  /*width: 988px;*/
+  margin: 0 auto;
   border-bottom: 3px solid red;
   height: 100px;
-  width: 100%;
 }
 
 .logo {
