@@ -258,6 +258,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/mdx university\/img\/london-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5550,
+		"inputAbbreviatedPath": "\/mdx university\/img\/london-logo.png",
+		"outputAbbreviatedPath": "\/mdx university\/img\/london-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/mdx university\/img\/map.png": {
 		"fileType": 32768,
 		"ignore": 0,
