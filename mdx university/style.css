@@ -520,10 +520,14 @@ body {
 
 
 .leftSection {
-  width: 237px;
+  width: 237.91px;
   height: 761px;
   /*background-color: grey;*/
   float: left;
+}
+
+.takeTour {
+  display: block;
 }
 
 
@@ -532,16 +536,26 @@ body {
   margin: 0;
 }
 
+
 .mdxSchools li {
-    float: left;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.mdxSchools li:nth-child(even) {
+  margin-left: 9px;
+}
+
+
+.mdxSchools li a {
     position: relative;
     width: 114px;
     height: 100px;
-    margin: 0 0 10px 4px;
     padding: 0;
     background: #d72a27;
     background-image: url('img/bg-mdx-schools.png');
     background-repeat: no-repeat;
+    display: block;
 }
 
 .mdxSchools li a span {
@@ -562,9 +576,9 @@ body {
 
 .locations  {
   background: url("img/map.png") -244px no-repeat;
-  width: 725px;
+  width: auto;
   height: 236px;
-  display: inline-block;
+  overflow: hidden;
   /*background-position: center 10px top -10px; */
 }
 
@@ -586,7 +600,7 @@ body {
   background-image: url('img/bg-block-site-search.png');
   width: 100%;
   height: 116px;
-  display: inline-block;
+  float: left;
 }
 
 .siteSearch h1 {
