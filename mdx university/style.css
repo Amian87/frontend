@@ -512,7 +512,7 @@ body {
 
 .mainSection {
   margin-top: 80px;
-  background-color: yellow;
+  /*background-color: yellow;*/
 }
 
 
@@ -559,18 +559,16 @@ body {
   text-decoration: underline;
 }
 
-.locations {
-  
-   background-image: url("img/map.png");
-   background-repeat: no-repeat;
-   /*background-size: 100%;*/
-   display: inline-block;
-   width: 725px;
-   height: 236px;
-   /*background-attachment: fixed;*/
-   background-position: right 10px 5px;
 
+.locations  {
+  background: url("img/map.png") -244px no-repeat;
+  width: 725px;
+  height: 236px;
+  display: inline-block;
+  /*background-position: center 10px top -10px; */
 }
+
+
 
 
 /*middle section*/
@@ -578,7 +576,7 @@ body {
 .mainSection .middleSection {
   width: 580px;
   height: 761px;
-  background-color: blue;
+  /*background-color: blue;*/
   display: inline-block;
   margin-left: 13px;
 }
@@ -588,16 +586,55 @@ body {
   background-image: url('img/bg-block-site-search.png');
   width: 100%;
   height: 116px;
+  display: inline-block;
 }
 
+.siteSearch h1 {
+  margin: 10px;
+}
 
+.searchBox {
+    width: 553px;
+    height: 46px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 13px;
+}
 
+.searchBox img{
+  float: right;
+  margin-right: 11px;
+  margin-top: 7px;
+}
 
+.searchBox span {
+  margin-top: 50px;
+  color: grey;
+  font-weight: 500;
+  font-size: 22px;
+}
 
+.mdxNews {
+  margin-top: 20px;
+  width: 580px;
+  height: 194px;
+  background-color: #262626;
+}
 
+.newsImg {
+  background-image: url("img/building.jpg");
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 290px;
+  float: right;
+  display: block;
 
+}
 
-
+.mdxNews a h1 {
+  width: 310px;
+  padding-left: 10px;
+}
 
 
 
@@ -605,7 +642,7 @@ body {
 .rightSection {
   width: 237px;
   height: 761px;
-  background-color: green;
+  /*background-color: green;*/
   float: right;
 }
 
