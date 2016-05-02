@@ -522,7 +522,7 @@ body {
 .leftSection {
   width: 237px;
   height: 761px;
-  background-color: grey;
+  /*background-color: grey;*/
   float: left;
 }
 
@@ -637,6 +637,7 @@ body {
 }
 
 
+/*right section*/
 
 
 .rightSection {
@@ -646,3 +647,54 @@ body {
   float: right;
 }
 
+.rightSection ul {
+  margin: 0;
+  padding: 0;
+}
+
+.rightSection ul li {
+  width: 100%;
+  height: 43px;
+  background-color: red;
+  margin-bottom: 15px;
+  position: relative;
+
+}
+
+.rightSection ul li span {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.rightSection ul li a {
+  color: white;
+}
+
+.rightSection ul li span:hover {
+  text-decoration: underline;
+}
+
+.rightSection .undergradImg {
+  background: url("img/undergrad.jpg") no-repeat;
+  width: 100%;
+  height: 117px;
+  margin-bottom: 15px;  
+}
+
+.rightSection .postgradImg {
+  background: url("img/Postgraduate.jpg") no-repeat;
+  width: 100%;
+  height: 117px;
+  margin-bottom: 15px;
+}
+
+.rightSection .upcomingEvents {
+  background-image: url("img/bg-upcoming-events.png");
+  background-repeat: no-repeat;
+  height: 615px;
+  width: 237px;
+  background-color: #252525;
+}

@@ -302,6 +302,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/mdx university\/img\/undergrad.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15730,
+		"inputAbbreviatedPath": "\/mdx university\/img\/undergrad.jpg",
+		"outputAbbreviatedPath": "\/mdx university\/img\/undergrad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/mdx university\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
