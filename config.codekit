@@ -2,6 +2,185 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19115",
 "files": {
+	"\/Flexbox Practice\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Flexbox Practice\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Flexbox Practice\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Flexbox Practice\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/garden template clone\/img\/bg-body.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5995,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/bg-body.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/bg-body.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/garden1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22188,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/garden1.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/garden1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/garden2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18315,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/garden2.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/garden2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/garden3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18390,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/garden3.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/garden3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/garden4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19616,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/garden4.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/garden4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/gardening1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157421,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/gardening1.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/gardening1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/gardening2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5128,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/gardening2.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/gardening2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/gardening3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5273,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/gardening3.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/gardening3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/gardening4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3826,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/gardening4.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/gardening4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/gardening5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27868,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/gardening5.jpg",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/gardening5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2741,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/icons.png",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/interface.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3591,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/interface.png",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/interface.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7336,
+		"inputAbbreviatedPath": "\/garden template clone\/img\/logo.png",
+		"outputAbbreviatedPath": "\/garden template clone\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garden template clone\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/garden template clone\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/garden template clone\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/garden template clone\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/karma clone v2\/facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
