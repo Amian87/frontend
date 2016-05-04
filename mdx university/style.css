@@ -151,7 +151,7 @@ dfn {
 
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: .637em 0;
 }
 
 /**
@@ -589,30 +589,58 @@ body {
 
 .mainSection .middleSection {
   width: 580px;
-  height: 761px;
+  /*height: 761px;*/
   /*background-color: blue;*/
-  display: inline-block;
+  float: left;
   margin-left: 13px;
 }
 
 
 .siteSearch {
   background-image: url('img/bg-block-site-search.png');
-  width: 100%;
-  height: 116px;
-  float: left;
+  width: auto;
+  height: 100px;
+  display: block;
+  padding: 10px;
 }
 
 .siteSearch h1 {
-  margin: 10px;
+  margin: 0;
+  margin-bottom: 10px;
 }
 
 .searchBox {
-    width: 553px;
     height: 46px;
     background-color: white;
-    display: inline-block;
-    margin-left: 13px;
+    display: block;
+    margin: 0;
+}
+
+.searchBox input[type="text"] {
+  border: none;
+  color: grey;
+  font-weight: 500;
+  font-size: 22px;
+  height: 100%;
+  padding: 0 15px;
+  width: 450px;
+  float: left;
+  display: block;
+
+}
+
+.searchBox input[type="submit"] {
+  border: none;
+  background: none;
+  background-image: url("img/icon-block-search-submit.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0;
+  height: 100%;
+  width: 50px;
+  display: block;
+  float: right;
+
 }
 
 .searchBox img{
@@ -630,24 +658,41 @@ body {
 
 .mdxNews {
   margin-top: 20px;
-  width: 580px;
-  height: 194px;
+  width: 578.98px;
+  height: 192.5px;
   background-color: #262626;
+  margin-bottom: 20px;
+
+}
+
+.newsText {
+  float: left;
+  margin-left: 10px;
 }
 
 .newsImg {
-  background-image: url("img/building.jpg");
-  background-repeat: no-repeat;
+  background: url("img/building.jpg") -74px no-repeat;
+  width: auto;
   height: 100%;
-  width: 290px;
-  float: right;
-  display: block;
-
+  overflow: hidden;
 }
 
 .mdxNews a h1 {
   width: 310px;
-  padding-left: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.mdxNews a {
+ color: white;
+}
+
+.mdxNews a:hover {
+ text-decoration: underline;
+}
+
+.mdxNews h4 {
+  margin: 10px 0;
 }
 
 
@@ -657,7 +702,6 @@ body {
 .rightSection {
   width: 237px;
   height: 761px;
-  /*background-color: green;*/
   float: right;
 }
 
@@ -666,7 +710,7 @@ body {
   padding: 0;
 }
 
-.rightSection ul li {
+.rightSection .cta ul li {
   width: 100%;
   height: 43px;
   background-color: red;
@@ -675,7 +719,7 @@ body {
 
 }
 
-.rightSection ul li span {
+.rightSection .cta ul li span {
   position: absolute;
   top: 10px;
   left: 20px;
@@ -683,11 +727,11 @@ body {
   font-size: 22px;
 }
 
-.rightSection ul li a {
+.rightSection .cta ul li a {
   color: white;
 }
 
-.rightSection ul li span:hover {
+.rightSection .cta ul li span:hover {
   text-decoration: underline;
 }
 
@@ -705,10 +749,70 @@ body {
   margin-bottom: 15px;
 }
 
+
 .rightSection .upcomingEvents {
   background-image: url("img/bg-upcoming-events.png");
   background-repeat: no-repeat;
   height: 615px;
   width: 237px;
   background-color: #252525;
+
 }
+
+.upcomingEvents h1 {
+  font-size: 21px;
+  margin-top: 10px;
+  display: inline-block; /*not the right way*/
+
+}
+
+.mdxEvents ul li{
+
+  margin-bottom: 20px;
+  display: inline-block;
+  margin-left: 10px;
+  float: left;
+
+} 
+
+.mdxEvents ul li a {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  padding: 0;
+  background: #d72a27; 
+  display: block;
+
+}
+
+.mdxEvents ul li a span {
+    position: absolute;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    vertical-align: 
+
+}
+
+
+.mdxEvents ul li span {
+  float: right;
+  display: block;
+  /*background-color: blue;*/
+  
+}
+
+
+.mdxEvents ul li span {
+  float: right;
+  display: block;
+}
+
+.mdxEvents hr {
+  display: block;
+  margin: 10px;
+  border: 1px solid white;
+}
+
+*/
