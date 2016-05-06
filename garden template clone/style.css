@@ -57,7 +57,7 @@ body {
 .siteWrapper {
   width: 950px;
   background-color: #356618;
-  height: 1000px;
+  /*height: 1000px;*/
 }
 
 .pageWrapper {
@@ -127,7 +127,7 @@ section .mainImg {
 
 .main .tips {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .main ul li  {
@@ -151,12 +151,48 @@ section .mainImg {
 width: 130px;
 }
 
+.bottom-container {
+  background-color: white;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+
+}
+
+.featured-gardens {
+  border-bottom: 1px solid #D7D6CD;
+  padding-bottom: 30px;
+}
+
+.bottom-container .featured-gardens .title{
+  background-color: #DCE9D4;
+  width: 860px;
+  height: 45px;
+  border-bottom: 2px solid green;
+  display: inline-flex;
+  align-items: center;
+  color: #836145;
+  margin: 20px 0px;
+  
+}
+
+.bottom-container .featured-gardens ul {
+  display: flex;
+  justify-content: space-between;
+}
 
 
 
+.bottom-container .featured-gardens ul span {
+  display: flex;
+  width: 200px;
+  flex-wrap: wrap;
+}
+
+.bottom-container .featured-gardens ul span h1 {
+  color: #836145;
+  margin: 10px 0px;  
+}
 
 
-
-/*.main .tips span a {
-  align-self: auto;
-}*/
