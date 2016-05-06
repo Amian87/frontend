@@ -115,8 +115,10 @@ section .mainImg {
 
 .mainImg span {
   background-color: black;
-  opacity: 0.6;
-  color: white
+  opacity: .7;
+  color: white;
+  padding: 22px;
+
 }
 
 .mainImg span h1 {
@@ -124,22 +126,30 @@ section .mainImg {
 }
 
 .main .tips {
-  display: inline-flex;
-  justify-content: space-around;
-  /*background-color: grey;*/
+  display: flex;
+  justify-content: space-between;
 }
 
 .main ul li  {
-  display: inline-flex;
-  align-items: flex-start;
+  display: flex;
   color: white;
 }
 
-/*.main ul span {
+.main ul img {
+  border: 1px solid white;
+  margin: 10px;
+}
 
-  display: inline-flex;
-  align-items: 
-}*/
+.main .tips h4 {
+  padding-top: 10px;
+  display: flex;
+
+  order: 1;
+}
+
+.main .tips span {
+width: 130px;
+}
 
 
 
