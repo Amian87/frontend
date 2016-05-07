@@ -1,0 +1,24 @@
+<svg id="hearts" xmlns="http://www.w3.org/2000/svg" width="62.906" height="60.84" viewBox="0 0 62.906 60.84">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #25b4e9;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.4;
+      }
+
+      .cls-3 {
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <path id="heart" class="cls-1" d="M813.906,2436.6c5.212-10.75,19.721-4.42,17.344,6.94S808.8,2461,808.8,2461s-15.927-13.71-13.551-25.07S812.068,2424.62,813.906,2436.6Z" transform="translate(-768.625 -2416.5)"/>
+  <circle id="heart_copy_2" data-name="heart copy 2" class="cls-2" cx="16.125" cy="3.25" r="3.75"/>
+  <path id="heart_copy" data-name="heart copy" class="cls-3" d="M777.173,2465.57c-0.025-5.83,7.743-6.23,9.15-.75s-6.128,12.52-6.128,12.52-9.989-2.52-11.4-8S773.772,2460.73,777.173,2465.57Z" transform="translate(-768.625 -2416.5)"/>
+</svg>

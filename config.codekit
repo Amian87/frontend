@@ -2,24 +2,6 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19115",
 "files": {
-	"\/Flexbox Practice\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Flexbox Practice\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Flexbox Practice\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Flexbox Practice\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/garden template clone\/img\/bg-body.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -510,6 +492,321 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/Quip clone\/img\/53.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2478,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/53.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/53.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/aljazeera.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4676,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/aljazeera.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/aljazeera.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/apple-touch-icon-76x76.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3017,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/apple-touch-icon-76x76.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/apple-touch-icon-76x76.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/bg-top1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27167,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/bg-top1.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/bg-top1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/bg-top2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36879,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/bg-top2.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/bg-top2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/cnn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2535,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/cnn.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/cnn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2755,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/facebook.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/fender.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2210,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/fender.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/fender.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/founder-insta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48004,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/founder-insta.jpg",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/founder-insta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4205,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/instagram.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/ioiAPlZG.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11613,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/ioiAPlZG.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/ioiAPlZG.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/leanin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1198,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/leanin.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/leanin.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/newrelic.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5739,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/newrelic.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/newrelic.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/number1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 672,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/number1.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/number1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/number2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 704,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/number2.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/number2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/pintrest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4049,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/pintrest.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/pintrest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/qgqhnuzd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6372,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/qgqhnuzd.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/qgqhnuzd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/quora.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2518,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/quora.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/quora.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/remind.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3236,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/remind.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/remind.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/stripe.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1463,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/stripe.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/stripe.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/testimonial.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45371,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/testimonial.jpg",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/testimonial.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/ultimate.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3706,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/ultimate.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/ultimate.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/UWHcxsDV.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4686,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/UWHcxsDV.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/UWHcxsDV.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/why-quip-bg@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 603338,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/why-quip-bg@2x.jpg",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/why-quip-bg@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/Yz8REVLl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4941,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/Yz8REVLl.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/Yz8REVLl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/zomato.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4863,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/zomato.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/zomato.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/img\/zoPz6lil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33006,
+		"inputAbbreviatedPath": "\/Quip clone\/img\/zoPz6lil.png",
+		"outputAbbreviatedPath": "\/Quip clone\/img\/zoPz6lil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Quip clone\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Quip clone\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Quip clone\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Quip clone\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/Robinhood clone v2\/img\/Andreessen@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -949,6 +1246,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Robinhood clone\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Template\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Template\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Template\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Template\/style.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
